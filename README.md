@@ -1,14 +1,14 @@
-Здравствуйте!
+Hello!
 
-Меня зовут Павел Романов, я Front-End разработчик с 4+ годами опыт. 
+My name is Pavel Romanov, I am a Front-End developer with 4+ years of experience.
 
-Vue.js, JavaScript, API-интеграция и оптимизация UI/UX - мои основные компетенции.
+Vue.js, JavaScript, API integration and UI/UX optimization are my core competencies.
 
-За время работы я разрабатывал веб-приложения с нуля, создавал интерактивные интерфейсы, интегрировал Telegram WebApps, а также оптимизировал архитектуру проектов. 
+During my work, I developed web applications from scratch, created interactive interfaces, integrated Telegram WebApps, and optimized project architecture.
 
-Мне нравится работать в команде и находить оптимальные решения для сложных задач.
+I like to work in a team and find optimal solutions for complex tasks.
 
-Я стремлюсь развивать и применять свои навыки, чтобы помочь команде создавать удобные, эффективные и современные веб-продукты.
+I strive to develop and apply my skills to help the team create convenient, efficient and modern web products.
 
 E-mail: pavel.ramanau@gmail.com
 
